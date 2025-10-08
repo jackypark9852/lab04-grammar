@@ -1,4 +1,4 @@
-# lab03-grammars
+# lab04-grammars
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
